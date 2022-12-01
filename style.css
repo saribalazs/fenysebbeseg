@@ -2,7 +2,9 @@ html{
     scroll-snap-type: y mandatory;
 }
 
-
+img{
+    height: 400px;
+}
 
 section{
     scroll-snap-align: start;
