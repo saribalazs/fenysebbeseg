@@ -1,0 +1,33 @@
+html{
+    scroll-snap-type: y mandatory;
+}
+
+
+
+section{
+    scroll-snap-type: start;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+section:nth-child(1){
+    color: aqua;
+}
+
+section:nth-child(2){
+    color: pink;
+}
+
+section :nth-child(3){
+    color: red;
+}
+
+section:nth-child(4){
+    color:chartreuse;
+}
+
+section :nth-child(5){
+    color: brown;
+}
