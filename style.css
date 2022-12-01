@@ -31,7 +31,3 @@ section:nth-child(4){
 section:nth-child(5){
     background-color: brown;
 }
-
-section:nth-child(6){
-    background-color:darkgoldenrod;
-}
