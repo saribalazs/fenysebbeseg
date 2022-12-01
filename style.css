@@ -12,25 +12,25 @@ section{
 }
 
 section:nth-child(1){
-    color: aqua;
+    background-color: aqua;
 }
 
 section:nth-child(2){
-    color: pink;
+    background-color: pink;
 }
 
 section :nth-child(3){
-    color: red;
+    background-color: red;
 }
 
 section:nth-child(4){
-    color:chartreuse;
+    background-color:chartreuse;
 }
 
 section :nth-child(5){
-    color: brown;
+    background-color: brown;
 }
 
 section :nth-child(6){
-    color:forestgreen;
+    background-color:forestgreen;
 }
