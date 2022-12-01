@@ -4,7 +4,7 @@ html{
 
 
 section{
-    scroll-snap-type: start;
+    scroll-snap-align: start;
     height: 100vh;
     display: flex;
     align-items: center;
