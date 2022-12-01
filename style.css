@@ -3,7 +3,6 @@ html{
 }
 
 
-
 section{
     scroll-snap-type: start;
     height: 100vh;
@@ -30,4 +29,8 @@ section:nth-child(4){
 
 section :nth-child(5){
     color: brown;
+}
+
+section :nth-child(6){
+    color:forestgreen;
 }
